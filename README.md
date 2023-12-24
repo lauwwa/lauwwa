@@ -1,3 +1,5 @@
+![logo](https://i.pinimg.com/originals/d7/33/b4/d733b491c5031518eed0e59a49511c9a.gif)(https://i.pinimg.com/originals/d7/33/b4/d733b491c5031518eed0e59a49511c9a.gif)
+
 <h1 align="center">Hi 👋, I'm Lavindu Hewage</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
